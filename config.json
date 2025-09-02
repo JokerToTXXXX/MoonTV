@@ -288,7 +288,7 @@
     },
     "api_40": {
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-            "name": "TV-魔都动漫"
+            "name": "TV-魔都动漫",
             "detail": "https://caiji.moduapi.cc"
              }            
            }
