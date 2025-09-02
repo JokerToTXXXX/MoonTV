@@ -285,12 +285,7 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "name": "TV-飘零资源",
             "detail": "https://p2100.net"
-    },
-    "api_40": {
-            "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-            "name": "TV-魔都动漫",
-            "detail": "https://caiji.moduapi.cc"
-             }            
+                }            
            }
         }
         
