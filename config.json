@@ -79,7 +79,8 @@
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+      "name": "iKun资源",
+      "detail": "https://ikunzyapi.com"
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -126,11 +127,6 @@
             "name": "TV-U酷资源1",
             "detail": "https://www.ukuzy.com"
     },
-    "api_6": {
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "name": "TV-ikun资源",
-            "detail": "https://ikunzyapi.com"
-    },
     "api_61": {
             "api": "https://www.ikunzy.com/api.php/provide/vod/?ac=list",
             "name": "TV-爱坤资源",
@@ -144,10 +140,6 @@
     "api_71": {
             "api": "https://api.wujinapi.com/api.php/provide/vod",
             "name": "TV-无尽资源1"
-    },
-    "api_72": {
-            "api": "https://api.wujinapi.me/api.php/provide/vod",
-            "name": "TV-无尽资源2"
     },
     "api_73": {
             "api": "https://cj.yayazy.net/api.php/provide/vod",
@@ -293,7 +285,6 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "name": "TV-飘零资源",
             "detail": "https://p2100.net"
-    }         
-           }
-        }
-        
+        }         
+     }
+  }
