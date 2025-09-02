@@ -90,8 +90,9 @@
       "name": "小猫咪资源"
     },
     "bdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度资源"
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "name": "百度资源",
+       "detail": "https://api.apibdzy.com"
     },
     "api_1": {
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
@@ -225,11 +226,6 @@
             "name": "TV-牛牛点播",
             "detail": "https://api.niuniuzy.me"
     },
-    "api_24": {
-            "api": "https://api.apibdzy.com/api.php/provide/vod",
-             "name": "TV-百度云资源",
-            "detail": "https://api.apibdzy.com"
-    },
     "api_25": {
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "name": "TV-神马云",
@@ -293,6 +289,7 @@
     "api_40": {
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "name": "TV-魔都动漫"
+            "detail": "https://caiji.moduapi.cc"
              }            
            }
         }
