@@ -244,12 +244,7 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "name": "TV-飘零资源",
             "detail": "https://p2100.net"
-     },
-    "api_50": {
-            "name": "AV-奥斯卡资源",
-            "api": "https://aosikazy.com/api.php/provide/vod",
-            "detail": "https://aosikazy.com"
-        }
+      }
      }
    }
         
